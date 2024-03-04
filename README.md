@@ -4,6 +4,7 @@ Links:
 
 - steps object: https://docs.github.com/en/actions/learn-github-actions/contexts#about-contexts
 - operators: https://docs.github.com/en/actions/learn-github-actions/expressions#operators
+- input context: https://docs.github.com/en/actions/learn-github-actions/contexts#inputs-context
 
 - Special conditions:
 
