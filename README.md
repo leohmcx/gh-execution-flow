@@ -8,3 +8,5 @@ Links:
 - Special conditions:
 
 ![](readme-images/special-conditions.png?raw=true)
+
+![](readme-images/conditional-jobs-&-steps.png?raw=true)
